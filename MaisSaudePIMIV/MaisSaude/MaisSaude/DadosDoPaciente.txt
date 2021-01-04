@@ -1,0 +1,31 @@
+
+
+Joseph;123456;11977152182;Lagoa Branca;88;Casa branca;Umarizal;Sao Paulo;SP;070707070;27/01/2009;josephkiller@hot15/11;15/11;OBESIDADE
+
+a;a;a;a;a;a;a;a;a;a;10/10/2010;a;a;DIABETES
+
+a;a;a;a;a;a;a;a;a;a;10/10/2010;
+a;a;a;a;a;a;a;a;a;a;03/02/2001;a;a;
+
+a;a;a;a;a;a;a;a;a;a;;10/10/2010;a;a;DIABETES
+
+a;a;a;a;a;a;a;a;a;a;03/02/2001;a;a;NAO POSSUI COMORBIDADES
+
+a;a;a;a;a;a;a;a;a;a;03/03/1930;a;a;DIABETES
+
+a;a;a;a;a;a;a;a;a;a;03/03/1930;a;a;SEM_COMORBIDADES
+
+a;a;a;a;a;a;a;a;a;a;03/03/1930;a;a;OBESIDADE
+
+a;a;a;a;a;a;a;a;a;a;;03/03/1930;;a;DIABETES
+
+a;a;a;a;a;a;a;a;a;a;03/03/1930;a;a;DIABETES
+
+a;a;a;a;a;a;a;a;a;05656-105;03/03/1930;a;a;OBESIDADE
+
+a;a;a;a;a;a;a;a;a;195;a;a;a;DIABETES
+
+a;;a;a;a;a;a;a;a;a;a;a;a;DIABETES
+
+a;a;;a;a;a;a;a;a;a;;aa;;SEM_COMORBIDADES
+

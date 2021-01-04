@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605417281 source:c:\users\user\onedrive\Área de trabalho\backup\cursos melkih\c\maissaude\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
